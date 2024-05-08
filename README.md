@@ -14,4 +14,5 @@ docker run -it --rm -p 8899:8888 -v $(pwd):/home/jovyan/work myproj
 # TODO
 * work folder
 * access to data folder
+* add opencv
 
