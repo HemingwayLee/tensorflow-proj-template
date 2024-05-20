@@ -13,7 +13,6 @@ docker run -it --rm -p 8888:8888 -p 6006-6015:6006-6015 -v $(pwd):/home/jovyan/w
 * Access to `http://127.0.0.1:8888`
 
 # TODO
-* work folder
 * access to data folder
 * add opencv
 
